@@ -1,0 +1,255 @@
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.json
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\DnsClient.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\SharpCompress.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\Snappier.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\ZstdSharp.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\scopedcss\bundle\StudentManagement.styles.css
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CopyComplete
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+D:\Practise\Own_Practise\StudentManagement\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Snappier.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagement.props
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagement.props
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagement.props
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\scopedcss\bundle\StudentManagement.styles.css
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.json
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\DnsClient.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\SharpCompress.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Snappier.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\ZstdSharp.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\scopedcss\bundle\StudentManagement.styles.css
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CopyComplete
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+D:\Practise\Own_Practise\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\DnsClient.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Snappier.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\scopedcss\bundle\StudentManagement.styles.css
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CopyComplete
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+C:\Users\prass\OneDrive\Desktop\StudentManagement (2)\StudentManagement\StudentManagement\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\DnsClient.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Snappier.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagement.props
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagement.props
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagement.props
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\scopedcss\bundle\StudentManagement.styles.css
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CopyComplete
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+C:\Users\aparn\Downloads\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Snappier.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagement.props
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagement.props
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagement.props
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\scopedcss\bundle\StudentManagement.styles.css
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Angular\StudentManagement (5)\StudentManagement (3)\StudentManagement\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
